@@ -1,0 +1,169 @@
+body {
+  background-color: gray;
+}
+#nort {
+  display: none;
+}
+nav div ul {
+  background-color: peachpuff;
+}
+@media only screen and (max-width: 600px){
+  nav div ul {
+    background-color: blue;
+  }
+}
+@media only screen and (max-width: 400px){
+  #nort {
+    display: inline;
+  }
+}
+@media only screen and (max-width: 400px){
+  #tron {
+    background-color: orange;
+    display: none;
+  }
+}
+
+/* 768px -tablet portrait */
+@media only screen and (max-width: 1024px){
+  body{
+    background-color: blue;
+  }
+}
+@media only screen and (max-width: 768px){
+  body{
+    background-color: green;
+  }
+}
+@media only screen and (max-width: 600px){
+  body{
+    background-color: yellow;
+  }
+}
+@media only screen and (max-width: 480px){
+  body{
+    background-color: orange;
+  }
+}
+@media only screen and (max-width: 320px){
+  body{
+    background-color: red;
+  }
+}
+@media only screen and (max-width: 220px){
+  body{
+    background-color: pink;
+  }
+}
+@media only screen and (max-width: 221px){
+  body{
+    background-color: red;
+  }
+}
+@media only screen and (max-width: 222px){
+  body{
+    background-color: orange;
+  }
+}
+@media only screen and (max-width: 223px){
+  body{
+    background-color: blue;
+  }
+}
+@media only screen and (max-width: 224px){
+  body{
+    background-color: gray;
+  }
+}
+@media only screen and (max-width: 225px){
+  body{
+    background-color: purple;
+  }
+}
+@media only screen and (max-width: 226px){
+  body{
+    background-color: lime;
+  }
+}
+@media only screen and (max-width: 227px){
+  body{
+    background-color: dodgerblue;
+  }
+}@media only screen and (max-width: 228px){
+  body{
+    background-color: silver;
+  }
+}@media only screen and (max-width: 229px){
+  body{
+    background-color: gold;
+  }
+}@media only screen and (max-width: 230px){
+  body{
+    background-color: black;
+  }
+}@media only screen and (max-width: 230px){
+  body{
+    background-color: pink;
+  }
+}
+@media only screen and (max-width: 231px){
+  body{
+    background-color: red;
+  }
+}
+@media only screen and (max-width: 232px){
+  body{
+    background-color: orange;
+  }
+}
+@media only screen and (max-width: 233px){
+  body{
+    background-color: blue;
+  }
+}
+@media only screen and (max-width: 234px){
+  body{
+    background-color: gray;
+  }
+}
+@media only screen and (max-width: 235px){
+  body{
+    background-color: purple;
+  }
+}
+@media only screen and (max-width: 236px){
+  body{
+    background-color: lime;
+  }
+}
+@media only screen and (max-width: 237px){
+  body{
+    background-color: dodgerblue;
+  }
+}@media only screen and (max-width: 238px){
+  body{
+    background-color: silver;
+  }
+}@media only screen and (max-width: 239px){
+  body{
+    background-color: gold;
+  }
+}@media only screen and (max-width: 240px){
+  body{
+    background-color: black;
+  }
+}@media only screen and (max-width: 241px){
+  body{
+    background-color: red;
+  }
+}
+
+}@media only screen and (max-height: 249px){
+  body{
+    background-color: gold;
+  }
+}@media only screen and (max-height: 350px){
+  body{
+    background-color: black;
+  }
+}
